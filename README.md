@@ -4,8 +4,8 @@
 ## https://www.youtube.com/ralphbacon
 ## See https://youtu.be/_7aN8wivSA0
 
-2-sided PCB just $5 for 10 pieces https://www.pcbway.com
-PCB Prototyping the easy way - see my video #129 for Hands-On details.
+### 2-sided PCB just $5 for 10 pieces https://www.pcbway.com  
+### PCB Prototyping the easy way - see my video #129 for Hands-On details.
 
 So I stumbled across this very nice volume control for Windows and Macs. Very solid and works straight out of the box. Can we replicate this using an Arduino? Of course we can!
 
