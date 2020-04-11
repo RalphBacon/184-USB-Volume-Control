@@ -1,5 +1,5 @@
 # USB Volume Control using Arduino Pro Micro
-Build a USB Volume Control using an Arduino Leonardo or Pro Micro
+### Build a USB Volume Control using an Arduino Leonardo or Pro Micro
 
 ## https://www.youtube.com/ralphbacon
 ## See https://youtu.be/_7aN8wivSA0
