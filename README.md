@@ -7,7 +7,18 @@
 ### 2-sided PCB just $5 for 10 pieces https://www.pcbway.com  
 ### PCB Prototyping the easy way - see my video #129 for Hands-On details.
 
-So I stumbled across this very nice volume control for Windows and Macs. Very solid and works straight out of the box. Can we replicate this using an Arduino? Of course we can!
+<img src="/images/USBVolumeControl.jpg" width="25%" align="left">
+
+**So I stumbled across this very nice volume control for Windows and Macs.**  
+
+**Very solid and works straight out of the box.**  
+
+**Can we replicate this using an Arduino?**  
+
+### Of course we can!
+
+
+<br>
 
 ### List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
