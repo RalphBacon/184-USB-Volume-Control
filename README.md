@@ -16,13 +16,9 @@
 **Can we replicate this using an Arduino?**  
 
 ### Of course we can!
-
-
 <br>
 
-### List of all my videos
-(Special thanks to Michael Kurt Vogel for compiling this)  
-http://bit.ly/YouTubeVideoList-RalphBacon
+<br>
 
 ## INFORMATION
 
@@ -49,6 +45,10 @@ https://forum.arduino.cc/index.php?topic=179548.0
 
 Arduino.cc documentation on **Keypress modifier** codes  
 https://www.arduino.cc/en/Reference/KeyboardModifiers
+
+### List of all my videos
+(Special thanks to Michael Kurt Vogel for compiling this)  
+http://bit.ly/YouTubeVideoList-RalphBacon
 
 ## PRODUCTS
 
